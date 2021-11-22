@@ -1,2 +1,2 @@
 # Co-Brand-SQL
-look a like model 
+SQl to create a dashboard. 
