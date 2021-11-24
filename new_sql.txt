@@ -4,3 +4,6 @@ create table "EDWH_PROD"."WS_SKYWARDS_PROD".JOJO_TIERPOST_MEMBERS_union as
 select * from "EDWH_PROD"."WS_SKYWARDS_PROD".JOJO_TIERPOST_MEMBERS_3
 union all
 select * from "EDWH_PROD"."WS_SKYWARDS_PROD".JOJO_TIERPOST_MEMBERS_6;
+
+
+drop table that i do not need
