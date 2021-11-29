@@ -9,3 +9,30 @@ select * from "EDWH_PROD"."WS_SKYWARDS_PROD".JOJO_TIERPOST_MEMBERS_6;
 drop table that i do not need
 
 create table that I do not need
+
+
+create table on new branch
+
+adding newline 29NOV 
+
+South Africa's president has condemned travel bans enacted against his country and its neighbours over the new coronavirus variant Omicron.
+
+Cyril Ramaphosa said he was "deeply disappointed" by the action, which he described as unjustified, and called for the bans to be urgently lifted.
+
+The UK, EU and US are among those who have imposed travel bans.
+
+Omicron has been classed as a "variant of concern". Early evidence suggests it has a higher re-infection risk.
+
+The heavily mutated variant was detected in South Africa earlier this month and then reported to the World Health Organization (WHO) last Wednesday.
+
+The variant is responsible for most of the infections found in South Africa's most populated province, Gauteng, over the last two weeks, and is now present in all other provinces in the country.
+
+On Monday, Japan became the latest country to reinstate tough border restrictions, banning all foreigners from entering the country from 30 November.
+
+The WHO has warned against countries hastily imposing travel curbs, saying they should look to a "risk-based and scientific approach". However, numerous bans have been introduced in recent days amid concerns over the variant.
+
+WHO's Africa director Matshidiso Moeti said on Sunday: "With the Omicron variant now detected in several regions of the world, putting in place travel bans that target Africa attacks global solidarity."
+
+
+
+adding one more line
